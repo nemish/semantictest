@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nemish/semantictest/issues"
   },
-  "homepage": "https://github.com/nemish/semantictest#readme"
+  "homepage": "https://github.com/nemish/semantictest#readme",
+  "devDependencies": {
+    "@semantic-release/git": "^7.0.18"
+  }
 }
